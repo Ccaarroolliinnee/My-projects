@@ -12,12 +12,12 @@
 
 .slides-navigation a.prev {
   left: 20px;
-  background-image: url(../IMG/previous.svg);
+  background-image: url(../img/previous.svg);
 }
 
 .slides-navigation a.next {
   right: 20px;
-  background-image: url(../IMG/next.svg);
+  background-image: url(../img/next.svg);
 }
 
 .titleMessage {
