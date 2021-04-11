@@ -63,6 +63,8 @@ body {
 .contactSection {
 	background-color: #e74c3c;
 	color: #fff;
+	padding-top: 200px;
+	padding-bottom: 200px;
 }
 
 .contactButton {
@@ -213,4 +215,46 @@ body {
 
 .items {
 	padding: 0;
+}
+
+#navigation {
+	background-color: #e74c3c;
+	padding: 20px 10px;
+	z-index: 100;
+	width: 100%;
+}
+
+#navigation li {
+	padding: 0 10px;
+}
+
+#navigation li a {
+	color: #fff;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+	color: #fff;
+}
+
+.navbar-toggler-icon {
+	background: url(../img/menu.png);
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.fixedNav #navigation {
+	position: fixed;
+	top: 0;
+}
+
+.copyrightSection {
+	background-color: #000;
+	color: #fff;
+	padding: 30px 5px;
+}
+
+.copyrightSection p {
+	margin: 0;
 }
