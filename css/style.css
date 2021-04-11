@@ -61,7 +61,7 @@ body {
 }
 
 .contactSection {
-	background-color: #e74c3c;
+	background-color: #AA3221;
 	color: #fff;
 	padding-top: 200px;
 	padding-bottom: 200px;
@@ -78,7 +78,7 @@ body {
 
 .contactButton:hover {
 	text-decoration: none;
-	color: #e74c3c;
+	color: #AA3221;
 	background-color: #fff;
 }
 
@@ -95,8 +95,8 @@ body {
 }
 
 .filter .current {
-	background-color: #e74c3c;
-	border-color: #e74c3c;
+	background-color: #AA3221;
+	border-color: #AA3221;
 	color: #fff;
 }
 
@@ -155,7 +155,7 @@ body {
 .items a {
 	width: 40px;
 	height: 40px;
-	background-color: #e74c3c;
+	background-color: #AA3221;
 	position: relative;
 	display: inline-block;
 
@@ -218,7 +218,7 @@ body {
 }
 
 #navigation {
-	background-color: #e74c3c;
+	background-color: #AA3221;
 	padding: 20px 10px;
 	z-index: 100;
 	width: 100%;
